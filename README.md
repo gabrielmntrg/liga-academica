@@ -1,4 +1,4 @@
-# Liga Acadêmica de Otimização e Algoritmos
+# Liga Acadêmica de Algoritmos e Otimização
 
 *Objetivos:*  
 
