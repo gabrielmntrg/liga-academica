@@ -45,7 +45,7 @@
     • Uso de ferramentas de simulação para experimentação.  
 
 *6. Programação Competitiva:*  
-    • Melhorar as habilidades de resolução de problemas participando de competições online e locais, como ACM ICPC, Codeforces, entre outras.  
+    • Melhorar as habilidades de resolução de problemas participando de competições online e locais.  
 
 *7. Linguagens de Programação e Ferramentas:*  
     • Aprender linguagens de programação comuns, como Python, C++ e Java, e suas bibliotecas relevantes.  
