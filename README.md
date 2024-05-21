@@ -1,59 +1,34 @@
-# Liga Acadêmica de Algoritmos e Otimização
+# Liga Acadêmica de Cibersegurança
 
-*Objetivos:*  
+*Objetivo:*  
 
-• Focar na otimização de algoritmos em vários contextos, como processos, busca e problemas combinatórios.  
-• Explorar algoritmos avançados de inteligência artificial, como algoritmos genéticos, algoritmos de enxame e programação linear.  
-• Melhorar as habilidades analíticas e de resolução de problemas dos membros.  
+• Promover o estudo e a prática da cibersegurança em diversos níveis, desde a infraestrutura de baixo nível até a de alto nível. Explorar técnicas de proteção e ataque, incluindo criptografia, análise de vulnerabilidades e testes de penetração, com o objetivo de aprimorar as habilidades técnicas e analíticas dos membros em computação e segurança da informação.
 
 *Atividades Propostas:*  
 
-• Competições e Desafios: Organizar competições de otimização e desafios de algoritmos para aprimorar as habilidades de resolução de problemas dos membros.  
-• Palestras e Workshops: Realizar palestras sobre algoritmos de otimização e suas aplicações, bem como oficinas práticas de programação e resolução de problemas.  
-• Exploração de Algoritmos Avançados: Explorar algoritmos avançados, como algoritmos genéticos e otimização combinatória, em sessões práticas.  
-• Aprofundamento e Desenvolvimento de Habilidades: Aprofundar o conhecimento em algoritmos e otimização, aprimorar as habilidades de resolução de problemas algorítmicos e criar oportunidades para participar em competições de programação.  
+• **Treinamento Básico:** Oferecer cursos introdutórios sobre os fundamentos da cibersegurança para novos membros, abordando conceitos essenciais e práticas básicas.  
+• **Aprofundamento e Técnicas Avançadas:** Explorar técnicas avançadas de cibersegurança, como engenharia reversa e forense digital e aprimorar as habilidades de resolução de problemas.  
+• **Competições e Desafios:** Organizar competições de cibersegurança, como CTFs (Capture The Flag), para aprimorar as habilidades práticas dos membros.  
+• **Workshops:** Realizar workshops práticos sobre técnicas de cibersegurança.  
 
 *Estrutura da Liga:*
 
 • Um professor coordenador/orientador será responsável por supervisionar, orientar e esclarecer dúvidas.  
-• A liga criará um estatuto a ser aprovado pela instituição de ensino, incluindo informações essenciais para o bom andamento do projeto (cargos, funcionamento, seleção de membros, cursos introdutórios, processos seletivos, etc.).  
+• Será criado um estatuto a ser aprovado pela instituição de ensino, incluindo informações essenciais para o bom andamento do projeto (cargos, funcionamento, cursos introdutórios, processos seletivos, etc.).  
 
-# Tópicos relacionados
+*Tópicos Relacionados:*  
 
-*1. Algoritmos de Otimização:*  
-    • Algoritmos de busca (busca local, busca global, etc.).  
-    • Programação linear e inteira.  
-    • Algoritmos de aproximação.  
-    • Algoritmos de ramificação e limite.  
-    • Algoritmos de fluxo em redes.  
+• Fundamentos da Computação e Cibersegurança  
+• Criptografia  
+• Segurança em Redes  
+• Segurança em Sistemas Operacionais  
+• Segurança em Aplicações Web  
+• Engenharia Reversa e Análise de Malware  
+• Forense Digital  
+• Testes de Penetração  
+• Teoria da Segurança  
 
-*2. Algoritmos de Inteligência Artificial:*  
-    • Algoritmos genéticos.  
-    • Algoritmos de enxame (como otimização por enxame de partículas).  
-    • Algoritmos de aprendizado de máquina aplicados à otimização.  
+*Ferramentas e Linguagens:*
 
-*3. Otimização Combinatória:*  
-    • Problemas clássicos, como o Problema do Caixeiro Viajante e o Problema da Mochila.  
-    • Técnicas específicas para resolver problemas NP-difíceis.  
-    
-*4. Algoritmos de Grafos:*  
-    • Algoritmos de árvore geradora mínima (como Prim e Kruskal).  
-    • Algoritmos de caminho mais curto (como Dijkstra e Bellman-Ford).  
-
-*5. Modelagem e Simulação:*  
-    • Como modelar problemas do mundo real como problemas de otimização.  
-    • Uso de ferramentas de simulação para experimentação.  
-
-*6. Programação Competitiva:*  
-    • Melhorar as habilidades de resolução de problemas participando de competições online e locais.  
-
-*7. Linguagens de Programação e Ferramentas:*  
-    • Aprender linguagens de programação comuns, como Python, C++ e Java, e suas bibliotecas relevantes.  
-    • Familiarizar-se com ferramentas de otimização, como solucionadores de programação linear (por exemplo, Gurobi ou CPLEX).  
-
-*8. Teoria da Complexidade:*  
-    • Compreender a classe de complexidade NP e NP-dificuldade.  
-    • Estudar a teoria da computação para fundamentos sólidos.  
-
-*9. Palestras e Workshops:*  
-    • Participar de palestras e workshops ministrados por especialistas ou membros experientes da liga.  
+• **Ferramentas de Segurança:** Familiarizar-se com ferramentas como Wireshark, Nmap, Metasploit, Kali Linux, Ghidra e outras.  
+• **Linguagens de Programação:** Aprender linguagens comuns em cibersegurança, como Python, C, C++, Assembly e Bash, além de frameworks específicos.
