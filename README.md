@@ -30,5 +30,5 @@
 
 *Ferramentas e Linguagens:*
 
-• **Ferramentas de Segurança:** Familiarizar-se com ferramentas como Wireshark, Nmap, Metasploit, Kali Linux, Ghidra e outras.  
-• **Linguagens de Programação:** Aprender linguagens comuns em cibersegurança, como Python, C, C++, Assembly e Bash, além de frameworks específicos.
+• Familiarizar-se com ferramentas como Wireshark, Nmap, Metasploit, Kali Linux, Ghidra e outras.  
+• Aprender linguagens comuns em cibersegurança, como Python, C/C++, Assembly e Bash, além de frameworks específicos.
