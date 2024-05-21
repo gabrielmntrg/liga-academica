@@ -2,14 +2,14 @@
 
 ***Objetivo:***  
 
-• Promover o estudo e a prática da cibersegurança em diversos níveis, desde a infraestrutura de baixo nível até a de alto nível. Explorar técnicas de proteção e ataque, incluindo criptografia, análise de vulnerabilidades e testes de penetração, com o objetivo de aprimorar as habilidades técnicas e analíticas dos membros em computação e segurança da informação.
+• Promover o estudo e a prática da cibersegurança em diversos níveis, desde a infraestrutura de baixo nível até a de alto nível. Explorar técnicas de proteção e ataque, incluindo criptografia, análise de vulnerabilidades e testes de penetração, com o objetivo de aprimorar as habilidades técnicas e analíticas dos membros.
 
 ***Atividades Propostas:***  
 
-• Oferecer cursos introdutórios sobre os fundamentos da cibersegurança para novos membros, abordando conceitos essenciais e práticas básicas.  
+• Oferecer cursos introdutórios sobre os fundamentos da computação e cibersegurança para novos membros, abordando conceitos essenciais e práticas básicas.  
 • Explorar técnicas avançadas de cibersegurança, como engenharia reversa e forense digital e aprimorar as habilidades de resolução de problemas.  
 • Organizar competições de cibersegurança, como CTFs (Capture The Flag), para aprimorar as habilidades práticas dos membros.  
-• Realizar workshops práticos sobre técnicas de cibersegurança.  
+• Criação de projetos e workshops práticos sobre técnicas de cibersegurança.  
 
 ***Estrutura da Liga:***
 
